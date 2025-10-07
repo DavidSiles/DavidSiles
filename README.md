@@ -1,12 +1,37 @@
-# David Siles
+##👋 Hi there! I'm David Siles
+
+💻 Developer multiplatform apps
+
+---
 
 ## 🚀 About Me
 I'm a full stack developer...
 
-## 🔗 Links
-<a href="https://github.com/DavidSiles">
-  <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="GitHub" width="50">
-</a>
+---
 
-## Screenshots
-<img src="https://static.vecteezy.com/system/resources/previews/022/100/214/non_2x/java-logo-transparent-free-png.png" alt="Java" width="100">
+## 🧰 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![OutSystems](https://img.shields.io/badge/OutSystems-E9322D?logo=outsystems&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidSiles&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSiles&layout=compact&theme=tokyonight)
+
+---
+
+## ✉️ Contact
+
+📫 You can reach me at: **david.siles@email.com**  
+🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/DavidSiles)
