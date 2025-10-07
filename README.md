@@ -33,5 +33,5 @@ I'm a full stack developer...
 
 ## ✉️ Contact
 
-📫 You can reach me at: **david.siles@email.com**  
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/DavidSiles)
+📫 You can reach me at: **davidsiles216@email.com**  
+🌐 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/david-siles-pardillo-6316202a5/)) | [GitHub]([https://github.com/DavidSiles](https://github.com/DavidSiles))
